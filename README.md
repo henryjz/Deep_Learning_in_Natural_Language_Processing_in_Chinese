@@ -1,0 +1,2 @@
+# Deep_Learning_in_Natural_Language_Processing_in_Chinese
+书籍《Deep Learning in Natural Language Processing》中文翻译
