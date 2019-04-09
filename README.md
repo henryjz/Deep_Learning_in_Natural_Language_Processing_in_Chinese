@@ -14,8 +14,8 @@
 
 ### 目录
 
-1. [前言](https://github.com/henryjz/Deep_Learning_in_Natural_Language_Processing_in_Chinese/前言.md)
-2. [序]()
+1. [**前言**](<https://github.com/henryjz/Deep_Learning_in_Natural_Language_Processing_in_Chinese/blob/master/%E5%89%8D%E8%A8%80.md>)
+2. [**序**]()
 3. **[自然语言处理和深度学习的联合介绍]()**
 4. **[对话语言理解与深度学习]()**
 5. **[基于语音/文本的对话系统与深度学习]()**
